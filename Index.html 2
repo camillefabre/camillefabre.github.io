@@ -1,12 +1,17 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Hello World</title>
+        <title>Camille Fabre</title>
     </head>
     <body>
-    <p>Hello world! Hello world!</p>
+    <p>I'm 20 years old</p>
     <p>My name is Camille!</p>
-    <h2>Tutorials</h2>
+    <h2>Hobbies and Interests</h2>
+    <p> I like golf, I have been playing golf since I was young. I like the competition and spend time with my friends.</p>
+
+    <img src="Golf de Saint-Cloud">
+
+
     <a href="owls.html">owls</a>
     <a href="https://codepen.io/camillefabre/pen/BaaeVVN">CCS Styling</a>
     <a href="https://codepen.io/camillefabre/pen/qBBeEpZ">HTML Elements</a>
